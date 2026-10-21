@@ -102,6 +102,11 @@ Open the local URL shown in the terminal, usually `http://localhost:8501`.
 SciDetect is an educational NLP and machine learning project. Its predictions are not medical advice and must not be used for clinical diagnosis, treatment decisions, or patient management.
 
 ## 👨‍💻 Author
+<img width="1446" height="957" alt="Screenshot 2026-10-22 025759" src="https://github.com/user-attachments/assets/101f9fb0-8481-4bdb-b65b-e57a626f590e" />
+<img width="1911" height="1015" alt="Screenshot 2026-10-22 025711" src="https://github.com/user-attachments/assets/c158ee4d-766c-4d2e-99b2-5a33f15a1672" />
+
+
+
 
 **Manmeet Manchanda**
 
